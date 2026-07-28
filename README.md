@@ -1,4 +1,4 @@
-﻿# DBP public releases
+# DBP public releases
 
 Public installers and `latest.json` for **DBP** (Dist Between PT).
 
